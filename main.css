@@ -6,6 +6,10 @@ body {
   color: white;
 }
 
+#bgmusic {
+  display: none;
+}
+
 #header {
   background: url('./images/starfield-banner.jpg');
   position: fixed;
